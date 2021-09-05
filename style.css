@@ -1,0 +1,84 @@
+.head{
+      
+    background-color:rgb(44, 44, 44);
+    border:solid;
+     }
+  
+     .note{
+       background-color: rgb(34, 34, 34);
+       border: dotted;
+     }
+  
+  .grid {
+    background: rgb(8, 8, 8);
+    background-color: #0d0d0e;
+    display: flex;
+    justify-content: center;
+    flex-direction:row;
+    text-align: center;
+    flex-wrap:wrap;
+  }
+ 
+  
+  .camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#bbb9b8;
+  }
+  
+  
+  .chameleon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#bbb9b8;
+  }
+  
+  .cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#bbb9b8;
+  }
+  
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#bbb9b8;
+  }
+  
+  .pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#bbb9b8;
+  }
+  
+  .teddy-bear {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#bbb9b8;
+  } 
+
+  
